@@ -1,0 +1,38 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="RxDojo" values="data.local.branches.count.0,config.force.push.enabled,data.remotes.in.project.0,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1461026417766" />
+    </group>
+    <group name="language-level">
+      <project id="RxDojo" values="JDK_1_8" collectionTime="1461026417765" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="RxDojo" values="Application" collectionTime="1461026417728" />
+    </group>
+    <group name="vcs">
+      <project id="RxDojo" values="Git" collectionTime="1461026417727" />
+    </group>
+    <group name="file-type">
+      <project id="RxDojo" values="Properties,Groovy,ARCHIVE,JAVA" collectionTime="1461026417757" />
+    </group>
+    <group name="module type">
+      <project id="RxDojo" values="JAVA_MODULE" collectionTime="1461026417727" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Application.Run" count="9" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Gradle" count="3" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,2 @@
+RegexPlugin
+org.intellij.RegexpTester

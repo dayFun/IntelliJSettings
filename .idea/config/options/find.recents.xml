@@ -1,0 +1,12 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>int\[\] (arr\d) = new int\[\]\{((\d,?\s?)+)\}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>List&lt;Integer&gt; $1</replace>
+      <replace>List&lt;Integer&gt; $1 = Arrays.asList($2);</replace>
+      <replace>List&lt;Integer&gt; $1 = Arrays.asList($2)</replace>
+    </replaceStrings>
+  </component>
+</application>

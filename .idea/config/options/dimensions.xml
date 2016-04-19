@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="540" y="72" />
+    <location key="#Plugins.0.0.1920.1080" x="552" y="75" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="-960" y="230" />
+    <location key="WELCOME_SCREEN.-1920.0.1920.1080" x="-960" y="230" />
+    <location key="#Browse_JetBrains_Plugins_.-1920.0.1920.1080" x="-1380" y="72" />
+    <location key="SettingsEditor.-1920.0.1920.1080" x="-1479" y="73" />
+    <location key="FileChooserDialogImpl.-1920.0.1920.1080" x="-1180" y="172" />
+    <location key="new project wizard.-1920.0.1920.1080" x="-1370" y="26" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="268" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="717" y="383" />
+    <location key="SettingsEditor.0.0.1920.1080" x="441" y="169" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1920.1080" x="707" y="235" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="183" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="540" y="168" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="272" />
+    <size key="javadoc.popup.0.0.1920.1080" width="446" height="165" />
+  </component>
+</application>
