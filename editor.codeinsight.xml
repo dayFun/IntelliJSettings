@@ -4,4 +4,7 @@
     <EXCLUDED_PACKAGE NAME="android.support.test.espresso.core.deps.guava.base.Preconditions.checkNotNull" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.equalTo" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
 </application>
