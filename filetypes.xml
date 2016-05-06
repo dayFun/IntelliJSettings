@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Example_Domain" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="Highlights" type="PLAIN_TEXT" />
+      <mapping pattern="Example_Domain" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
