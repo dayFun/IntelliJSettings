@@ -3,8 +3,6 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-    <EXCLUDED_PACKAGE NAME="android.support.test.espresso.core.deps.guava.base.Preconditions.checkNotNull" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.Matchers.equalTo" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
