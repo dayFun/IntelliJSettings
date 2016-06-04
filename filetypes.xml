@@ -5,6 +5,7 @@
       <mapping pattern="Example_Domain" type="PLAIN_TEXT" />
       <mapping pattern="Highlights" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="hi_steve" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
