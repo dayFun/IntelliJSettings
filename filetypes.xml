@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Example_Domain" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="Highlights" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="fdsa" type="PLAIN_TEXT" />
