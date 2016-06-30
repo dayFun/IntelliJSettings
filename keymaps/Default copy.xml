@@ -3,8 +3,21 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="FileChooser.Refresh">
     <keyboard-shortcut first-keystroke="ctrl cancel" />
+  </action>
+  <action id="MaintenanceAction" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="MoveElementRight" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt slash" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="RunCoverage">
     <keyboard-shortcut first-keystroke="divide" />
@@ -23,5 +36,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
 </keymap>
