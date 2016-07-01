@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="CommonRxMistakes_Notes" type="Markdown" />
       <mapping pattern="Example_Domain" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="hi_steve" type="PLAIN_TEXT" />
       <mapping pattern="Highlights" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="fdsa" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="hi_steve" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
