@@ -1,5 +1,11 @@
 <code_scheme name="Default (2)">
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="SMART_EDIT_UNDERSCORES" value="true" />
+    <option name="SMART_EDIT_ASTERISKS" value="true" />
+    <option name="SMART_EDIT_TILDES" value="true" />
+    <option name="CODE_FENCE_MINIMIZE_INDENT" value="true" />
+    <option name="CODE_FENCE_MATCH_CLOSING_MARKER" value="true" />
+    <option name="CODE_FENCE_MARKER_TYPE" value="1" />
     <option name="TABLE_LEFT_ALIGN_MARKER" value="0" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
